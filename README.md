@@ -34,5 +34,3 @@ The batch size can be modified depending on the task and computational requireme
 `trigger_stealthiness.py`: This is the test code for different algorithms for trigger stealthiness.
 
 `adaptability.py`: This is the test code for the different instructions.
-
-In addition, code and datasets to support retraining of the model using qlora are provided in the folder Qlora.
